@@ -1,0 +1,12 @@
+#summary One-sentence summary of this page.
+#labels Phase-Implementation,Deprecated,Phase-Design
+
+this page is all about tetris4j
+
+= Introduction =
+
+Tetris, the most addicting game ever, NOW REBORN!
+
+= Details =
+
+Tetris 4j is a, work in progress, tetris clone. unlike tetris however this game will have a few new things. first off when we complete it there will be a boss battle at the end of level 10. we are also trying to get different music for each level of the game.
